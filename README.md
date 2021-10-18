@@ -1,7 +1,7 @@
 # GV9531-linux
 GV9531 linux kernel and rootfs compile environment,the directory tree bleow:
-linux 4.9.56     ----->linux kernel 
-rootfs           ----->rootfs 
+linux 4.9.56     ----->linux kernel  
+rootfs           ----->rootfs  
 host             ----->crosscompile toolchain 
 
 # compile step
