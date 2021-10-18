@@ -9,3 +9,5 @@ step1: ./build d
 generate linux kernel conifguration file;  
 step2: ./build r  
 compile linux kernel and rootfs for boot gv9531 chip;  
+
+The output directory is target flodler,included uImage,dtb and rootfs.  
